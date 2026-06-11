@@ -1,0 +1,47 @@
+{
+  "name": "mundial2026-predictor",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "seed": "npx tsx scripts/seed.ts",
+    "cron": "npx tsx scripts/cron.ts",
+    "bot": "npx tsx scripts/bot.ts",
+    "tg:test": "npx tsx scripts/tg-test.ts",
+    "test": "vitest run",
+    "start:prod": "concurrently \"npm run start\" \"npm run bot\""
+  },
+  "dependencies": {
+    "@libsql/client": "^0.17.3",
+    "axios": "^1.7.2",
+    "axios-retry": "^4.4.0",
+    "better-sqlite3": "^9.4.3",
+    "clsx": "^2.1.1",
+    "concurrently": "^9.2.1",
+    "date-fns": "^3.6.0",
+    "framer-motion": "^11.2.10",
+    "google-tts-api": "^2.0.2",
+    "next": "14.2.3",
+    "node-cron": "^3.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "recharts": "^2.12.7",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.10",
+    "@types/node": "^20",
+    "@types/node-cron": "^3.0.11",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "dotenv": "^16.4.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.4",
+    "tsx": "^4.15.7",
+    "typescript": "^5",
+    "vitest": "^1.6.0"
+  }
+}

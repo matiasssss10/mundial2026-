@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { box-sizing: border-box; }
+  body { 
+    @apply bg-brand-dark text-brand-light font-sans antialiased selection:bg-brand-secondary/30;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    @apply bg-white/[0.02] backdrop-blur-md border border-white/[0.05] shadow-xl;
+  }
+  .glass-card-hover {
+    @apply glass-card hover:bg-white/[0.04] hover:border-brand-accent/30 hover:shadow-brand-accent/10 hover:-translate-y-1 transition-all duration-300;
+  }
+  .glass-panel {
+    @apply bg-[#0b0f1d]/80 backdrop-blur-xl border border-[#1a2d48];
+  }
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-brand-accent to-yellow-200;
+  }
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { @apply bg-transparent; }
+::-webkit-scrollbar-thumb { @apply bg-white/10 rounded-full hover:bg-white/20 transition-colors; }
+input[type=number] { -moz-appearance: textfield; }
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button { -webkit-appearance: none; }

@@ -1,0 +1,834 @@
+[
+  {
+    "match_date": "2026-06-11T15:00:00-05:00",
+    "home": "México",
+    "away": "Sudáfrica",
+    "groupCode": "A",
+    "phase": "groups",
+    "venue": "Ciudad de México"
+  },
+  {
+    "match_date": "2026-06-11T22:00:00-05:00",
+    "home": "Corea del Sur",
+    "away": "Chequia",
+    "groupCode": "A",
+    "phase": "groups",
+    "venue": "Guadalajara"
+  },
+  {
+    "match_date": "2026-06-12T15:00:00-05:00",
+    "home": "Canadá",
+    "away": "Bosnia-Herz.",
+    "groupCode": "B",
+    "phase": "groups",
+    "venue": "Toronto"
+  },
+  {
+    "match_date": "2026-06-12T21:00:00-05:00",
+    "home": "Estados Unidos",
+    "away": "Paraguay",
+    "groupCode": "D",
+    "phase": "groups",
+    "venue": "Los Ángeles"
+  },
+  {
+    "match_date": "2026-06-13T15:00:00-05:00",
+    "home": "Qatar",
+    "away": "Suiza",
+    "groupCode": "B",
+    "phase": "groups",
+    "venue": "Bahía de San Francisco"
+  },
+  {
+    "match_date": "2026-06-13T18:00:00-05:00",
+    "home": "Brasil",
+    "away": "Marruecos",
+    "groupCode": "C",
+    "phase": "groups",
+    "venue": "Nueva York Nueva Jersey"
+  },
+  {
+    "match_date": "2026-06-13T21:00:00-05:00",
+    "home": "Haití",
+    "away": "Escocia",
+    "groupCode": "C",
+    "phase": "groups",
+    "venue": "Boston"
+  },
+  {
+    "match_date": "2026-06-13T00:00:00-05:00",
+    "home": "Australia",
+    "away": "Turquía",
+    "groupCode": "D",
+    "phase": "groups",
+    "venue": "BC Place Vancouver"
+  },
+  {
+    "match_date": "2026-06-14T13:00:00-05:00",
+    "home": "Alemania",
+    "away": "Curazao",
+    "groupCode": "E",
+    "phase": "groups",
+    "venue": "Houston"
+  },
+  {
+    "match_date": "2026-06-14T16:00:00-05:00",
+    "home": "Países Bajos",
+    "away": "Japón",
+    "groupCode": "F",
+    "phase": "groups",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-06-14T19:00:00-05:00",
+    "home": "Costa de Marfil",
+    "away": "Ecuador",
+    "groupCode": "E",
+    "phase": "groups",
+    "venue": "Filadelfia"
+  },
+  {
+    "match_date": "2026-06-14T22:00:00-05:00",
+    "home": "Suecia",
+    "away": "Túnez",
+    "groupCode": "F",
+    "phase": "groups",
+    "venue": "Monterrey"
+  },
+  {
+    "match_date": "2026-06-15T12:00:00-05:00",
+    "home": "España",
+    "away": "Cabo Verde",
+    "groupCode": "H",
+    "phase": "groups",
+    "venue": "Atlanta"
+  },
+  {
+    "match_date": "2026-06-15T15:00:00-05:00",
+    "home": "Bélgica",
+    "away": "Egipto",
+    "groupCode": "G",
+    "phase": "groups",
+    "venue": "Seattle"
+  },
+  {
+    "match_date": "2026-06-15T18:00:00-05:00",
+    "home": "Arabia Saudita",
+    "away": "Uruguay",
+    "groupCode": "H",
+    "phase": "groups",
+    "venue": "Miami"
+  },
+  {
+    "match_date": "2026-06-15T21:00:00-05:00",
+    "home": "Irán",
+    "away": "Nueva Zelanda",
+    "groupCode": "G",
+    "phase": "groups",
+    "venue": "Los Ángeles"
+  },
+  {
+    "match_date": "2026-06-16T15:00:00-05:00",
+    "home": "Francia",
+    "away": "Senegal",
+    "groupCode": "I",
+    "phase": "groups",
+    "venue": "Nueva York Nueva Jersey"
+  },
+  {
+    "match_date": "2026-06-16T18:00:00-05:00",
+    "home": "Irak",
+    "away": "Noruega",
+    "groupCode": "I",
+    "phase": "groups",
+    "venue": "Boston"
+  },
+  {
+    "match_date": "2026-06-16T21:00:00-05:00",
+    "home": "Argentina",
+    "away": "Argelia",
+    "groupCode": "J",
+    "phase": "groups",
+    "venue": "Kansas City"
+  },
+  {
+    "match_date": "2026-06-16T00:00:00-05:00",
+    "home": "Austria",
+    "away": "Jordania",
+    "groupCode": "J",
+    "phase": "groups",
+    "venue": "Bahía de San Francisco"
+  },
+  {
+    "match_date": "2026-06-17T13:00:00-05:00",
+    "home": "Portugal",
+    "away": "Congo RD",
+    "groupCode": "K",
+    "phase": "groups",
+    "venue": "Houston"
+  },
+  {
+    "match_date": "2026-06-17T16:00:00-05:00",
+    "home": "Inglaterra",
+    "away": "Croacia",
+    "groupCode": "L",
+    "phase": "groups",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-06-17T19:00:00-05:00",
+    "home": "Ghana",
+    "away": "Panamá",
+    "groupCode": "L",
+    "phase": "groups",
+    "venue": "Toronto"
+  },
+  {
+    "match_date": "2026-06-17T22:00:00-05:00",
+    "home": "Uzbekistán",
+    "away": "Colombia",
+    "groupCode": "K",
+    "phase": "groups",
+    "venue": "Ciudad de México"
+  },
+  {
+    "match_date": "2026-06-18T12:00:00-05:00",
+    "home": "Chequia",
+    "away": "Sudáfrica",
+    "groupCode": "A",
+    "phase": "groups",
+    "venue": "Atlanta"
+  },
+  {
+    "match_date": "2026-06-18T15:00:00-05:00",
+    "home": "Suiza",
+    "away": "Bosnia-Herz.",
+    "groupCode": "B",
+    "phase": "groups",
+    "venue": "Los Ángeles"
+  },
+  {
+    "match_date": "2026-06-18T18:00:00-05:00",
+    "home": "Canadá",
+    "away": "Qatar",
+    "groupCode": "B",
+    "phase": "groups",
+    "venue": "BC Place Vancouver"
+  },
+  {
+    "match_date": "2026-06-18T21:00:00-05:00",
+    "home": "México",
+    "away": "Corea del Sur",
+    "groupCode": "A",
+    "phase": "groups",
+    "venue": "Guadalajara"
+  },
+  {
+    "match_date": "2026-06-19T15:00:00-05:00",
+    "home": "Estados Unidos",
+    "away": "Australia",
+    "groupCode": "D",
+    "phase": "groups",
+    "venue": "Seattle"
+  },
+  {
+    "match_date": "2026-06-19T18:00:00-05:00",
+    "home": "Escocia",
+    "away": "Marruecos",
+    "groupCode": "C",
+    "phase": "groups",
+    "venue": "Boston"
+  },
+  {
+    "match_date": "2026-06-19T21:00:00-05:00",
+    "home": "Brasil",
+    "away": "Haití",
+    "groupCode": "C",
+    "phase": "groups",
+    "venue": "Filadelfia"
+  },
+  {
+    "match_date": "2026-06-19T00:00:00-05:00",
+    "home": "Turquía",
+    "away": "Paraguay",
+    "groupCode": "D",
+    "phase": "groups",
+    "venue": "Bahía de San Francisco"
+  },
+  {
+    "match_date": "2026-06-20T13:00:00-05:00",
+    "home": "Países Bajos",
+    "away": "Suecia",
+    "groupCode": "F",
+    "phase": "groups",
+    "venue": "Houston"
+  },
+  {
+    "match_date": "2026-06-20T16:00:00-05:00",
+    "home": "Alemania",
+    "away": "Costa de Marfil",
+    "groupCode": "E",
+    "phase": "groups",
+    "venue": "Toronto"
+  },
+  {
+    "match_date": "2026-06-20T22:00:00-05:00",
+    "home": "Ecuador",
+    "away": "Curazao",
+    "groupCode": "E",
+    "phase": "groups",
+    "venue": "Kansas City"
+  },
+  {
+    "match_date": "2026-06-20T00:00:00-05:00",
+    "home": "Túnez",
+    "away": "Japón",
+    "groupCode": "F",
+    "phase": "groups",
+    "venue": "Monterrey"
+  },
+  {
+    "match_date": "2026-06-21T12:00:00-05:00",
+    "home": "España",
+    "away": "Arabia Saudita",
+    "groupCode": "H",
+    "phase": "groups",
+    "venue": "Atlanta"
+  },
+  {
+    "match_date": "2026-06-21T15:00:00-05:00",
+    "home": "Bélgica",
+    "away": "Irán",
+    "groupCode": "G",
+    "phase": "groups",
+    "venue": "Los Ángeles"
+  },
+  {
+    "match_date": "2026-06-21T18:00:00-05:00",
+    "home": "Uruguay",
+    "away": "Cabo Verde",
+    "groupCode": "H",
+    "phase": "groups",
+    "venue": "Miami"
+  },
+  {
+    "match_date": "2026-06-21T21:00:00-05:00",
+    "home": "Nueva Zelanda",
+    "away": "Egipto",
+    "groupCode": "G",
+    "phase": "groups",
+    "venue": "BC Place Vancouver"
+  },
+  {
+    "match_date": "2026-06-22T13:00:00-05:00",
+    "home": "Argentina",
+    "away": "Austria",
+    "groupCode": "J",
+    "phase": "groups",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-06-22T17:00:00-05:00",
+    "home": "Francia",
+    "away": "Irak",
+    "groupCode": "I",
+    "phase": "groups",
+    "venue": "Filadelfia"
+  },
+  {
+    "match_date": "2026-06-22T20:00:00-05:00",
+    "home": "Noruega",
+    "away": "Senegal",
+    "groupCode": "I",
+    "phase": "groups",
+    "venue": "Nueva York Nueva Jersey"
+  },
+  {
+    "match_date": "2026-06-22T23:00:00-05:00",
+    "home": "Jordania",
+    "away": "Argelia",
+    "groupCode": "J",
+    "phase": "groups",
+    "venue": "Bahía de San Francisco Bay"
+  },
+  {
+    "match_date": "2026-06-23T13:00:00-05:00",
+    "home": "Portugal",
+    "away": "Uzbekistán",
+    "groupCode": "K",
+    "phase": "groups",
+    "venue": "Houston"
+  },
+  {
+    "match_date": "2026-06-23T16:00:00-05:00",
+    "home": "Inglaterra",
+    "away": "Ghana",
+    "groupCode": "L",
+    "phase": "groups",
+    "venue": "Boston"
+  },
+  {
+    "match_date": "2026-06-23T19:00:00-05:00",
+    "home": "Panamá",
+    "away": "Croacia",
+    "groupCode": "L",
+    "phase": "groups",
+    "venue": "Toronto"
+  },
+  {
+    "match_date": "2026-06-23T22:00:00-05:00",
+    "home": "Colombia",
+    "away": "Congo RD",
+    "groupCode": "K",
+    "phase": "groups",
+    "venue": "Guadalajara"
+  },
+  {
+    "match_date": "2026-06-24T15:00:00-05:00",
+    "home": "Suiza",
+    "away": "Canadá",
+    "groupCode": "B",
+    "phase": "groups",
+    "venue": "BC Place Vancouver"
+  },
+  {
+    "match_date": "2026-06-24T15:00:00-05:00",
+    "home": "Bosnia-Herz.",
+    "away": "Qatar",
+    "groupCode": "B",
+    "phase": "groups",
+    "venue": "Seattle"
+  },
+  {
+    "match_date": "2026-06-24T18:00:00-05:00",
+    "home": "Escocia",
+    "away": "Brasil",
+    "groupCode": "C",
+    "phase": "groups",
+    "venue": "Miami"
+  },
+  {
+    "match_date": "2026-06-24T18:00:00-05:00",
+    "home": "Marruecos",
+    "away": "Haití",
+    "groupCode": "C",
+    "phase": "groups",
+    "venue": "Atlanta"
+  },
+  {
+    "match_date": "2026-06-24T21:00:00-05:00",
+    "home": "Chequia",
+    "away": "México",
+    "groupCode": "A",
+    "phase": "groups",
+    "venue": "Ciudad de México"
+  },
+  {
+    "match_date": "2026-06-24T21:00:00-05:00",
+    "home": "Sudáfrica",
+    "away": "Corea del Sur",
+    "groupCode": "A",
+    "phase": "groups",
+    "venue": "Monterrey"
+  },
+  {
+    "match_date": "2026-06-25T16:00:00-05:00",
+    "home": "Curazao",
+    "away": "Costa de Marfil",
+    "groupCode": "E",
+    "phase": "groups",
+    "venue": "Filadelfia"
+  },
+  {
+    "match_date": "2026-06-25T16:00:00-05:00",
+    "home": "Ecuador",
+    "away": "Alemania",
+    "groupCode": "E",
+    "phase": "groups",
+    "venue": "Nueva York Nueva Jersey"
+  },
+  {
+    "match_date": "2026-06-25T19:00:00-05:00",
+    "home": "Japón",
+    "away": "Suecia",
+    "groupCode": "F",
+    "phase": "groups",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-06-25T19:00:00-05:00",
+    "home": "Túnez",
+    "away": "Países Bajos",
+    "groupCode": "F",
+    "phase": "groups",
+    "venue": "Kansas City"
+  },
+  {
+    "match_date": "2026-06-25T22:00:00-05:00",
+    "home": "Turquía",
+    "away": "Estados Unidos",
+    "groupCode": "D",
+    "phase": "groups",
+    "venue": "Los Ángeles"
+  },
+  {
+    "match_date": "2026-06-25T22:00:00-05:00",
+    "home": "Paraguay",
+    "away": "Australia",
+    "groupCode": "D",
+    "phase": "groups",
+    "venue": "Bahía de San Francisco"
+  },
+  {
+    "match_date": "2026-06-26T15:00:00-05:00",
+    "home": "Noruega",
+    "away": "Francia",
+    "groupCode": "I",
+    "phase": "groups",
+    "venue": "Boston"
+  },
+  {
+    "match_date": "2026-06-26T15:00:00-05:00",
+    "home": "Senegal",
+    "away": "Irak",
+    "groupCode": "I",
+    "phase": "groups",
+    "venue": "Toronto"
+  },
+  {
+    "match_date": "2026-06-26T20:00:00-05:00",
+    "home": "Cabo Verde",
+    "away": "Arabia Saudita",
+    "groupCode": "H",
+    "phase": "groups",
+    "venue": "Houston"
+  },
+  {
+    "match_date": "2026-06-26T20:00:00-05:00",
+    "home": "Uruguay",
+    "away": "España",
+    "groupCode": "H",
+    "phase": "groups",
+    "venue": "Guadalajara"
+  },
+  {
+    "match_date": "2026-06-26T23:00:00-05:00",
+    "home": "Egipto",
+    "away": "Irán",
+    "groupCode": "G",
+    "phase": "groups",
+    "venue": "Seattle"
+  },
+  {
+    "match_date": "2026-06-26T23:00:00-05:00",
+    "home": "Nueva Zelanda",
+    "away": "Bélgica",
+    "groupCode": "G",
+    "phase": "groups",
+    "venue": "BC Place Vancouver"
+  },
+  {
+    "match_date": "2026-06-27T17:00:00-05:00",
+    "home": "Panamá",
+    "away": "Inglaterra",
+    "groupCode": "L",
+    "phase": "groups",
+    "venue": "Nueva York Nueva Jersey"
+  },
+  {
+    "match_date": "2026-06-27T17:00:00-05:00",
+    "home": "Croacia",
+    "away": "Ghana",
+    "groupCode": "L",
+    "phase": "groups",
+    "venue": "Filadelfia"
+  },
+  {
+    "match_date": "2026-06-27T19:30:00-05:00",
+    "home": "Colombia",
+    "away": "Portugal",
+    "groupCode": "K",
+    "phase": "groups",
+    "venue": "Miami"
+  },
+  {
+    "match_date": "2026-06-27T19:30:00-05:00",
+    "home": "Congo RD",
+    "away": "Uzbekistán",
+    "groupCode": "K",
+    "phase": "groups",
+    "venue": "Atlanta"
+  },
+  {
+    "match_date": "2026-06-27T22:00:00-05:00",
+    "home": "Argelia",
+    "away": "Austria",
+    "groupCode": "J",
+    "phase": "groups",
+    "venue": "Kansas City"
+  },
+  {
+    "match_date": "2026-06-27T22:00:00-05:00",
+    "home": "Jordania",
+    "away": "Argentina",
+    "groupCode": "J",
+    "phase": "groups",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-06-28T15:00:00-05:00",
+    "home": "2º Grupo A",
+    "away": "2º Grupo B",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Los Ángeles"
+  },
+  {
+    "match_date": "2026-06-29T15:00:00-05:00",
+    "home": "1º Grupo E",
+    "away": "3º Grupo A/B/C/D/F",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Boston"
+  },
+  {
+    "match_date": "2026-06-29T18:00:00-05:00",
+    "home": "1º Grupo F",
+    "away": "2º Grupo C",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Monterrey"
+  },
+  {
+    "match_date": "2026-06-29T21:00:00-05:00",
+    "home": "1º Grupo C",
+    "away": "2º Grupo F",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Houston"
+  },
+  {
+    "match_date": "2026-06-30T15:00:00-05:00",
+    "home": "1º Grupo I",
+    "away": "3º Grupo C/D/F/G/H",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Nueva York Nueva Jersey"
+  },
+  {
+    "match_date": "2026-06-30T18:00:00-05:00",
+    "home": "2º Grupo E",
+    "away": "2º Grupo I",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-06-30T21:00:00-05:00",
+    "home": "1º Grupo A",
+    "away": "3º Grupo C/E/F/H/I",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Ciudad de México"
+  },
+  {
+    "match_date": "2026-07-01T15:00:00-05:00",
+    "home": "1º Grupo L",
+    "away": "3º Grupo E/H/I/J/K",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Atlanta"
+  },
+  {
+    "match_date": "2026-07-01T18:00:00-05:00",
+    "home": "1º Grupo D",
+    "away": "3º Grupo B/E/F/I/J",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Bahía de San Francisco"
+  },
+  {
+    "match_date": "2026-07-01T21:00:00-05:00",
+    "home": "1º Grupo G",
+    "away": "3º Grupo A/E/H/I/J",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Seattle"
+  },
+  {
+    "match_date": "2026-07-02T15:00:00-05:00",
+    "home": "2º Grupo K",
+    "away": "2º Grupo L",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Toronto"
+  },
+  {
+    "match_date": "2026-07-02T18:00:00-05:00",
+    "home": "1º Grupo H",
+    "away": "2º Grupo J",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Los Ángeles"
+  },
+  {
+    "match_date": "2026-07-02T21:00:00-05:00",
+    "home": "1º Grupo B",
+    "away": "3º Grupo E/F/G/I/J",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "BC Place Vancouver"
+  },
+  {
+    "match_date": "2026-07-03T15:00:00-05:00",
+    "home": "1º Grupo J",
+    "away": "2º Grupo H",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Miami"
+  },
+  {
+    "match_date": "2026-07-03T18:00:00-05:00",
+    "home": "1º Grupo K",
+    "away": "3º Grupo D/E/I/J/L",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Kansas City"
+  },
+  {
+    "match_date": "2026-07-03T21:00:00-05:00",
+    "home": "2º Grupo D",
+    "away": "2º Grupo G",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-07-04T15:00:00-05:00",
+    "home": "Ganador Partido 74",
+    "away": "Ganador Partido 77",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Filadelfia"
+  },
+  {
+    "match_date": "2026-07-04T18:00:00-05:00",
+    "home": "Ganador Partido 73",
+    "away": "Ganador Partido 75",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Houston"
+  },
+  {
+    "match_date": "2026-07-05T15:00:00-05:00",
+    "home": "Ganador Partido 76",
+    "away": "Ganador Partido 78",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Nueva York Nueva Jersey"
+  },
+  {
+    "match_date": "2026-07-05T18:00:00-05:00",
+    "home": "Ganador Partido 79",
+    "away": "Ganador Partido 80",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Ciudad de México"
+  },
+  {
+    "match_date": "2026-07-06T15:00:00-05:00",
+    "home": "Ganador Partido 83",
+    "away": "Ganador Partido 84",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-07-06T18:00:00-05:00",
+    "home": "Ganador Partido 81",
+    "away": "Ganador Partido 82",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Seattle"
+  },
+  {
+    "match_date": "2026-07-07T15:00:00-05:00",
+    "home": "Ganador Partido 86",
+    "away": "Ganador Partido 88",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Atlanta"
+  },
+  {
+    "match_date": "2026-07-07T18:00:00-05:00",
+    "home": "Ganador Partido 85",
+    "away": "Ganador Partido 87",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "BC Place Vancouver"
+  },
+  {
+    "match_date": "2026-07-09T15:00:00-05:00",
+    "home": "Ganador Partido 89",
+    "away": "Ganador Partido 90",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Boston"
+  },
+  {
+    "match_date": "2026-07-10T15:00:00-05:00",
+    "home": "Ganador Partido 93",
+    "away": "Ganador Partido 94",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Los Ángeles"
+  },
+  {
+    "match_date": "2026-07-11T15:00:00-05:00",
+    "home": "Ganador Partido 91",
+    "away": "Ganador Partido 92",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Miami"
+  },
+  {
+    "match_date": "2026-07-11T18:00:00-05:00",
+    "home": "Ganador Partido 95",
+    "away": "Ganador Partido 96",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Kansas City"
+  },
+  {
+    "match_date": "2026-07-14T15:00:00-05:00",
+    "home": "Ganador Partido 97",
+    "away": "Ganador Partido 98",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Dallas"
+  },
+  {
+    "match_date": "2026-07-15T15:00:00-05:00",
+    "home": "Ganador Partido 99",
+    "away": "Ganador Partido 100",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Atlanta"
+  },
+  {
+    "match_date": "2026-07-18T15:00:00-05:00",
+    "home": "Perdedor Partido 101",
+    "away": "Perdedor Partido 102",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Miami"
+  },
+  {
+    "match_date": "2026-07-19T15:00:00-05:00",
+    "home": "Ganador Partido 101",
+    "away": "Ganador Partido 102",
+    "groupCode": "—",
+    "phase": "knockout",
+    "venue": "Nueva York Nueva Jersey"
+  }
+]
